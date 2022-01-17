@@ -6,7 +6,11 @@ namespace Harjoitus2
     {
         static void Main(string[] args)
         {
-           
+            // luodaan opiskelia olio
+            opiselija opiskejia1 = new piselija("Matti", "TVT1234", 0);
+
+            opiskejia1.TulostaData();
+            opiskejia1.MuokkaaOpintopi();
         }
     }
 }
