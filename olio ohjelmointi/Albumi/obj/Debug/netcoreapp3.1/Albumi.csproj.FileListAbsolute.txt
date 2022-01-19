@@ -1,0 +1,14 @@
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\Albumi\bin\Debug\netcoreapp3.1\Albumi.exe
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\Albumi\bin\Debug\netcoreapp3.1\Albumi.deps.json
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\Albumi\bin\Debug\netcoreapp3.1\Albumi.runtimeconfig.json
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\Albumi\bin\Debug\netcoreapp3.1\Albumi.runtimeconfig.dev.json
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\Albumi\bin\Debug\netcoreapp3.1\Albumi.dll
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\Albumi\bin\Debug\netcoreapp3.1\Albumi.pdb
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\Albumi\obj\Debug\netcoreapp3.1\Albumi.csproj.AssemblyReference.cache
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\Albumi\obj\Debug\netcoreapp3.1\Albumi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\Albumi\obj\Debug\netcoreapp3.1\Albumi.AssemblyInfoInputs.cache
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\Albumi\obj\Debug\netcoreapp3.1\Albumi.AssemblyInfo.cs
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\Albumi\obj\Debug\netcoreapp3.1\Albumi.csproj.CoreCompileInputs.cache
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\Albumi\obj\Debug\netcoreapp3.1\Albumi.dll
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\Albumi\obj\Debug\netcoreapp3.1\Albumi.pdb
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\Albumi\obj\Debug\netcoreapp3.1\Albumi.genruntimeconfig.cache
