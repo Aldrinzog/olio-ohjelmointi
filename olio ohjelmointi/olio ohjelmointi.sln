@@ -9,7 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harjoitus2", "Harjoitus2\Ha
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Albumi", "Albumi\Albumi.csproj", "{1778466D-3999-41D5-8643-4CE6330153C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kiuas", "kiuas\kiuas.csproj", "{E6C7F729-8B8E-4E5F-AE07-89A0B1ABFBB2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "kiuas", "kiuas\kiuas.csproj", "{E6C7F729-8B8E-4E5F-AE07-89A0B1ABFBB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "staticTest", "staticTest\staticTest.csproj", "{F1944FEC-B379-4080-B5E5-6022BCB8035F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helkilötstatic", "Helkilötstatic\Helkilötstatic.csproj", "{DF8CC5F9-C53C-427E-930F-1757D3162A48}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{E6C7F729-8B8E-4E5F-AE07-89A0B1ABFBB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E6C7F729-8B8E-4E5F-AE07-89A0B1ABFBB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E6C7F729-8B8E-4E5F-AE07-89A0B1ABFBB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1944FEC-B379-4080-B5E5-6022BCB8035F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1944FEC-B379-4080-B5E5-6022BCB8035F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1944FEC-B379-4080-B5E5-6022BCB8035F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1944FEC-B379-4080-B5E5-6022BCB8035F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF8CC5F9-C53C-427E-930F-1757D3162A48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF8CC5F9-C53C-427E-930F-1757D3162A48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF8CC5F9-C53C-427E-930F-1757D3162A48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF8CC5F9-C53C-427E-930F-1757D3162A48}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
