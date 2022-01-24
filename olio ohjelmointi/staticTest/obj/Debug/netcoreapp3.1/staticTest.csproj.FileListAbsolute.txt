@@ -1,0 +1,5 @@
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\staticTest\obj\Debug\netcoreapp3.1\staticTest.csproj.AssemblyReference.cache
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\staticTest\obj\Debug\netcoreapp3.1\staticTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\staticTest\obj\Debug\netcoreapp3.1\staticTest.AssemblyInfoInputs.cache
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\staticTest\obj\Debug\netcoreapp3.1\staticTest.AssemblyInfo.cs
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\staticTest\obj\Debug\netcoreapp3.1\staticTest.csproj.CoreCompileInputs.cache

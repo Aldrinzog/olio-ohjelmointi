@@ -25,10 +25,11 @@ namespace PerintäTesti
             Eläin.KuinkaMonta();
 
             koira koira2 = new koira();
-            koira koira2 = new koira();
-
+            koira koira3 = new koira();
             Kissa kissa2 = new Kissa();
 
+            Koira.KuinkaMonta();
+            Kissa.KuinkaMonta();
             Eläin.KuinkaMonta();
 
         }

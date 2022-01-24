@@ -1,0 +1,14 @@
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\Helkilötstatic\bin\Debug\netcoreapp3.1\Helkilötstatic.exe
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\Helkilötstatic\bin\Debug\netcoreapp3.1\Helkilötstatic.deps.json
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\Helkilötstatic\bin\Debug\netcoreapp3.1\Helkilötstatic.runtimeconfig.json
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\Helkilötstatic\bin\Debug\netcoreapp3.1\Helkilötstatic.runtimeconfig.dev.json
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\Helkilötstatic\bin\Debug\netcoreapp3.1\Helkilötstatic.dll
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\Helkilötstatic\bin\Debug\netcoreapp3.1\Helkilötstatic.pdb
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\Helkilötstatic\obj\Debug\netcoreapp3.1\Helkilötstatic.csproj.AssemblyReference.cache
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\Helkilötstatic\obj\Debug\netcoreapp3.1\Helkilötstatic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\Helkilötstatic\obj\Debug\netcoreapp3.1\Helkilötstatic.AssemblyInfoInputs.cache
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\Helkilötstatic\obj\Debug\netcoreapp3.1\Helkilötstatic.AssemblyInfo.cs
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\Helkilötstatic\obj\Debug\netcoreapp3.1\Helkilötstatic.csproj.CoreCompileInputs.cache
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\Helkilötstatic\obj\Debug\netcoreapp3.1\Helkilötstatic.dll
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\Helkilötstatic\obj\Debug\netcoreapp3.1\Helkilötstatic.pdb
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\Helkilötstatic\obj\Debug\netcoreapp3.1\Helkilötstatic.genruntimeconfig.cache
