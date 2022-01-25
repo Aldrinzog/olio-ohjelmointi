@@ -6,25 +6,32 @@ namespace harjoitus1
 {
     class ajoneuvo
     {
-        public string Nimi { get; set; }
-        public int nopeus { get; set; }
-        public int renkaat { get; set; }
+        private int minikerros;
+        private int maxkerros;
 
 
+        private int nykyinenkerros;
 
-        public void TulostaData()
+        public int nykyinenKerros
         {
-            Console.WriteLine("ajoneuvo: ");
-            Console.WriteLine("-- Nimi: " + Nimi);
-            Console.WriteLine("-- nopeus: " + nopeus);
-            Console.WriteLine("-- renkaat: " + renkaat);
+            get => nykyinenkerros;
+            set
+            {
+
+                if (value > maxkerros || value < minikerros)
+                {
+                    Console.WriteLine("virheellinen kerros");
+                }
+                else
+                {
+                    nykyinenkerros = value;
+                }
+
+
+            }
         }
 
-        public string Tostring()
-        {
-            string merkkijono = "Ajoneuvo Nimi: " + Nimi + ". nopeus: " + nopeus + "km/h.renkaat " + renkaat + "kpl";
-
-            return merkkijono;
-        }
     }
+
 }
+

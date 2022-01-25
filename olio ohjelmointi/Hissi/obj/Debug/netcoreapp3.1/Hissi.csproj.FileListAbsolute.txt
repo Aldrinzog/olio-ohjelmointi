@@ -1,0 +1,14 @@
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\Hissi\obj\Debug\netcoreapp3.1\Hissi.csproj.AssemblyReference.cache
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\Hissi\obj\Debug\netcoreapp3.1\Hissi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\Hissi\obj\Debug\netcoreapp3.1\Hissi.AssemblyInfoInputs.cache
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\Hissi\obj\Debug\netcoreapp3.1\Hissi.AssemblyInfo.cs
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\Hissi\obj\Debug\netcoreapp3.1\Hissi.csproj.CoreCompileInputs.cache
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\Hissi\bin\Debug\netcoreapp3.1\Hissi.exe
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\Hissi\bin\Debug\netcoreapp3.1\Hissi.deps.json
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\Hissi\bin\Debug\netcoreapp3.1\Hissi.runtimeconfig.json
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\Hissi\bin\Debug\netcoreapp3.1\Hissi.runtimeconfig.dev.json
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\Hissi\bin\Debug\netcoreapp3.1\Hissi.dll
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\Hissi\bin\Debug\netcoreapp3.1\Hissi.pdb
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\Hissi\obj\Debug\netcoreapp3.1\Hissi.dll
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\Hissi\obj\Debug\netcoreapp3.1\Hissi.pdb
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\Hissi\obj\Debug\netcoreapp3.1\Hissi.genruntimeconfig.cache
