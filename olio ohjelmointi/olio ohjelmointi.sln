@@ -19,11 +19,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harjoitus5", "Harjoitus5\Ha
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PerintäTesti", "PerintäTesti\PerintäTesti.csproj", "{20EDE417-6033-47B4-9031-768AF8642EB9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractTest", "AbstractTest\AbstractTest.csproj", "{FCBB6D2F-A2D6-4087-98CD-A05646BE2998}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractTest", "AbstractTest\AbstractTest.csproj", "{FCBB6D2F-A2D6-4087-98CD-A05646BE2998}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VahvistinTesti", "VahvistinTesti\VahvistinTesti.csproj", "{C84762CC-9793-40F2-AB7D-22A8F30A5B97}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VahvistinTesti", "VahvistinTesti\VahvistinTesti.csproj", "{C84762CC-9793-40F2-AB7D-22A8F30A5B97}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hissi", "Hissi\Hissi.csproj", "{A59BA1C5-4782-42C3-9FAD-4BEEDBD19377}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hissi", "Hissi\Hissi.csproj", "{A59BA1C5-4782-42C3-9FAD-4BEEDBD19377}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus 10", "Harjoitus 10\Harjoitus 10.csproj", "{FDDB8806-B1B9-47A5-9BCF-2E830BF43234}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{A59BA1C5-4782-42C3-9FAD-4BEEDBD19377}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A59BA1C5-4782-42C3-9FAD-4BEEDBD19377}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A59BA1C5-4782-42C3-9FAD-4BEEDBD19377}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDDB8806-B1B9-47A5-9BCF-2E830BF43234}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDDB8806-B1B9-47A5-9BCF-2E830BF43234}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDDB8806-B1B9-47A5-9BCF-2E830BF43234}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDDB8806-B1B9-47A5-9BCF-2E830BF43234}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
