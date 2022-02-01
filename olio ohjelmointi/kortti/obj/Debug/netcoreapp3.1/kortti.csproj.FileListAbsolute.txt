@@ -1,0 +1,13 @@
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\kortti\obj\Debug\netcoreapp3.1\kortti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\kortti\obj\Debug\netcoreapp3.1\kortti.AssemblyInfoInputs.cache
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\kortti\obj\Debug\netcoreapp3.1\kortti.AssemblyInfo.cs
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\kortti\obj\Debug\netcoreapp3.1\kortti.csproj.CoreCompileInputs.cache
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\kortti\bin\Debug\netcoreapp3.1\kortti.exe
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\kortti\bin\Debug\netcoreapp3.1\kortti.deps.json
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\kortti\bin\Debug\netcoreapp3.1\kortti.runtimeconfig.json
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\kortti\bin\Debug\netcoreapp3.1\kortti.runtimeconfig.dev.json
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\kortti\bin\Debug\netcoreapp3.1\kortti.dll
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\kortti\bin\Debug\netcoreapp3.1\kortti.pdb
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\kortti\obj\Debug\netcoreapp3.1\kortti.dll
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\kortti\obj\Debug\netcoreapp3.1\kortti.pdb
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\kortti\obj\Debug\netcoreapp3.1\kortti.genruntimeconfig.cache

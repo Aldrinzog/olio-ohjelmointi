@@ -11,12 +11,12 @@ namespace Harjoitus_10
         public Varsi(string _Name, float _WingSize)
         {
             Name = _Name;
-            WingSize = _WingSize;
+            wingSize = _WingSize;
         }
 
         public void FLy()
         {
-            Console.WriteLine("{0} Lentää. Siipinen koko on {1}", Nimi, WingSize);
+            Console.WriteLine("{0} Lentää. Siipinen koko on {1}", Name, wingSize);
         }
 
         public override void MakeASound()

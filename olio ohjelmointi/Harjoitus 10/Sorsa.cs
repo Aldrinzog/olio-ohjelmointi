@@ -13,12 +13,12 @@ namespace Harjoitus_10
         {
             Name = _Name;
             wingSize = _WingSize;
-            swimspeed = _speed;
+            SwimSpeed = _speed;
         }
 
         public void Fly()
         {
-            Console.WriteLine("{0} Lentää. Siipinen koko on {1}", Nimi, WingSize);
+            Console.WriteLine("{0} Lentää. Siipinen koko on {1}", Name, wingSize);
         }
 
         public override void MakeASound()
@@ -28,7 +28,7 @@ namespace Harjoitus_10
 
         public void Swim()
         {
-            Console.writeline("Kala {0} ui nopeudella {1}", Name SwimSpeed);
+            Console.WriteLine("Kala {0} ui nopeudella {1}", Name,  SwimSpeed);
         }
     }
 }

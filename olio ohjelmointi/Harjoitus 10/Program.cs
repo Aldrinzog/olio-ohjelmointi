@@ -6,9 +6,9 @@ namespace Harjoitus_10
     {
         static void Main(string[] args)
         {
-            Varis varis = new Varis("Varis", 90);
+            Varsi varis = new Varsi("Varis", 90);
 
-            Varsi.MakeASound();
+            varis.MakeASound();
             varis.Fly();
 
             Kala Ahven = new Kala("Ahven", 50, "Blurp");

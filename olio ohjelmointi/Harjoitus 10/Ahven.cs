@@ -6,6 +6,7 @@ namespace Harjoitus_10
 {   
     class Ahven : Eläin, ICanSwim
     {
+       
         public int SwimSpeed { get; set; }
         public string Sound { get; set; }
 
