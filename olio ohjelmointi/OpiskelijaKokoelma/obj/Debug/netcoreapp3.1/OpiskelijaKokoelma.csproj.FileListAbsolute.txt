@@ -1,0 +1,14 @@
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\OpiskelijaKokoelma\bin\Debug\netcoreapp3.1\OpiskelijaKokoelma.exe
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\OpiskelijaKokoelma\bin\Debug\netcoreapp3.1\OpiskelijaKokoelma.deps.json
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\OpiskelijaKokoelma\bin\Debug\netcoreapp3.1\OpiskelijaKokoelma.runtimeconfig.json
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\OpiskelijaKokoelma\bin\Debug\netcoreapp3.1\OpiskelijaKokoelma.runtimeconfig.dev.json
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\OpiskelijaKokoelma\bin\Debug\netcoreapp3.1\OpiskelijaKokoelma.dll
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\OpiskelijaKokoelma\bin\Debug\netcoreapp3.1\OpiskelijaKokoelma.pdb
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\OpiskelijaKokoelma\obj\Debug\netcoreapp3.1\OpiskelijaKokoelma.csproj.AssemblyReference.cache
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\OpiskelijaKokoelma\obj\Debug\netcoreapp3.1\OpiskelijaKokoelma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\OpiskelijaKokoelma\obj\Debug\netcoreapp3.1\OpiskelijaKokoelma.AssemblyInfoInputs.cache
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\OpiskelijaKokoelma\obj\Debug\netcoreapp3.1\OpiskelijaKokoelma.AssemblyInfo.cs
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\OpiskelijaKokoelma\obj\Debug\netcoreapp3.1\OpiskelijaKokoelma.csproj.CoreCompileInputs.cache
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\OpiskelijaKokoelma\obj\Debug\netcoreapp3.1\OpiskelijaKokoelma.dll
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\OpiskelijaKokoelma\obj\Debug\netcoreapp3.1\OpiskelijaKokoelma.pdb
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\OpiskelijaKokoelma\obj\Debug\netcoreapp3.1\OpiskelijaKokoelma.genruntimeconfig.cache

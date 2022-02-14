@@ -23,7 +23,7 @@ namespace kiuas
         public void HaeTiedot()
         {
             Console.WriteLine("");
-            if (Tila == true)
+            if (Tila = true)
             {
                 Console.WriteLine("Kiuas" + Merkki + "on päällä");
                 Console.WriteLine("Lampotila" + Lampotila);
@@ -34,5 +34,9 @@ namespace kiuas
             {
                 Console.WriteLine("Kiuas " + Merkki + " ei ole päällä");
             }
+        }
+        public void openWith()
+        {
+
         }
     }

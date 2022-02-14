@@ -1,0 +1,14 @@
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\Korttipakka\bin\Debug\netcoreapp3.1\Korttipakka.exe
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\Korttipakka\bin\Debug\netcoreapp3.1\Korttipakka.deps.json
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\Korttipakka\bin\Debug\netcoreapp3.1\Korttipakka.runtimeconfig.json
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\Korttipakka\bin\Debug\netcoreapp3.1\Korttipakka.runtimeconfig.dev.json
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\Korttipakka\bin\Debug\netcoreapp3.1\Korttipakka.dll
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\Korttipakka\bin\Debug\netcoreapp3.1\Korttipakka.pdb
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\Korttipakka\obj\Debug\netcoreapp3.1\Korttipakka.csproj.AssemblyReference.cache
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\Korttipakka\obj\Debug\netcoreapp3.1\Korttipakka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\Korttipakka\obj\Debug\netcoreapp3.1\Korttipakka.AssemblyInfoInputs.cache
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\Korttipakka\obj\Debug\netcoreapp3.1\Korttipakka.AssemblyInfo.cs
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\Korttipakka\obj\Debug\netcoreapp3.1\Korttipakka.csproj.CoreCompileInputs.cache
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\Korttipakka\obj\Debug\netcoreapp3.1\Korttipakka.dll
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\Korttipakka\obj\Debug\netcoreapp3.1\Korttipakka.pdb
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\Korttipakka\obj\Debug\netcoreapp3.1\Korttipakka.genruntimeconfig.cache
