@@ -32,7 +32,7 @@ namespace OpiskelijaKokoelma
 
                     case "Tulosta":
                         //Kun käyttäjä kirjottaa syötteeksi tulosta tämä kohta tehdään
-                        TulostaOpiskelija(opiskelijat);
+                        Tulosta.Opiskelija(opiskelijat);
                         break;
 
                     case "Poistu":

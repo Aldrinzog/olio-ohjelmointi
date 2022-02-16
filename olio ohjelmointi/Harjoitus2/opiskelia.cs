@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Harjoitus2
 {
-    class opiskelia
+    class opiskelia { 
 
 
         private string Nimi { get; set; }
@@ -15,7 +15,7 @@ namespace Harjoitus2
 
 
     // konstruktori opiskelija luokalle 
-    public void opiskelija(string _Nimi, string _id int _opintopisteet)
+    public void opiskelija(string _Nimi, string _id, int _opintopisteet)
     {
         this.Nimi = _Nimi;
         this.opiskeliaID = _id;

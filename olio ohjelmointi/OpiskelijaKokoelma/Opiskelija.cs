@@ -14,7 +14,7 @@ namespace OpiskelijaKokoelma
         public void TulostaTiedot()
         {
             Console.WriteLine("Opiskelia: {0} {1}. Ryhmätunnus: {2}. Opiskelianumero: {3}", Nimi, Sukunimi, Ryhmätunnus, Opiskelianumero);
-            Opiskelija = Console.ReadLine();
+            = Console.ReadLine();
            
         }
     } 

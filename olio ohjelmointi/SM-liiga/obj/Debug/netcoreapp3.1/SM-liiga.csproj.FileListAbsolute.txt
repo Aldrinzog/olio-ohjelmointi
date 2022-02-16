@@ -1,0 +1,14 @@
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\SM-liiga\obj\Debug\netcoreapp3.1\SM-liiga.csproj.AssemblyReference.cache
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\SM-liiga\obj\Debug\netcoreapp3.1\SM-liiga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\SM-liiga\obj\Debug\netcoreapp3.1\SM-liiga.AssemblyInfoInputs.cache
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\SM-liiga\obj\Debug\netcoreapp3.1\SM-liiga.AssemblyInfo.cs
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\SM-liiga\obj\Debug\netcoreapp3.1\SM-liiga.csproj.CoreCompileInputs.cache
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\SM-liiga\bin\Debug\netcoreapp3.1\SM-liiga.exe
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\SM-liiga\bin\Debug\netcoreapp3.1\SM-liiga.deps.json
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\SM-liiga\bin\Debug\netcoreapp3.1\SM-liiga.runtimeconfig.json
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\SM-liiga\bin\Debug\netcoreapp3.1\SM-liiga.runtimeconfig.dev.json
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\SM-liiga\bin\Debug\netcoreapp3.1\SM-liiga.dll
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\SM-liiga\bin\Debug\netcoreapp3.1\SM-liiga.pdb
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\SM-liiga\obj\Debug\netcoreapp3.1\SM-liiga.dll
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\SM-liiga\obj\Debug\netcoreapp3.1\SM-liiga.pdb
+C:\Users\aldrin.zogijani\source\repos\Aldrinzog\olio-ohjelmointi\olio ohjelmointi\SM-liiga\obj\Debug\netcoreapp3.1\SM-liiga.genruntimeconfig.cache
