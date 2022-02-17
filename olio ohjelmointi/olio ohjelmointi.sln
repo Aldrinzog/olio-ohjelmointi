@@ -33,9 +33,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kokoelma lista", "Kokoelma 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpiskelijaKokoelma", "OpiskelijaKokoelma\OpiskelijaKokoelma.csproj", "{803531C5-A987-421F-B7F4-9FE45372FA4A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Korttipakka", "Korttipakka\Korttipakka.csproj", "{B3415591-4C2C-4B13-B92F-C9082AAEC793}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Korttipakka", "Korttipakka\Korttipakka.csproj", "{B3415591-4C2C-4B13-B92F-C9082AAEC793}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SM-liiga", "SM-liiga\SM-liiga.csproj", "{DBFC9334-4034-466D-A106-874FD35930F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SM-liiga", "SM-liiga\SM-liiga.csproj", "{DBFC9334-4034-466D-A106-874FD35930F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autolaskuri", "Autolaskuri\Autolaskuri.csproj", "{EE5E0845-4127-4FF8-B0A1-B4C37C694968}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{DBFC9334-4034-466D-A106-874FD35930F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DBFC9334-4034-466D-A106-874FD35930F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DBFC9334-4034-466D-A106-874FD35930F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE5E0845-4127-4FF8-B0A1-B4C37C694968}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE5E0845-4127-4FF8-B0A1-B4C37C694968}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE5E0845-4127-4FF8-B0A1-B4C37C694968}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE5E0845-4127-4FF8-B0A1-B4C37C694968}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
